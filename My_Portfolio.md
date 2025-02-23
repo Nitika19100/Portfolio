@@ -14,6 +14,7 @@ Welcome to my portfolio! Here, you'll find an overview of my expertise in AI, ma
 - **Phone**: +1 (902) 225-4310
 - **GitHub**: [GitHub Profile](https://github.com/Nitika19100)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nitika-duggal1910)
+- **Website**:[Website Link](https://nitikaduggal1910.wixsite.com/my-site-1 )
 
 ---
 
@@ -52,6 +53,7 @@ I have a broad set of technical and analytical skills that allow me to work effi
 ### **Portfolio Website**  
 **Technologies**: HTML, CSS, JavaScript, Node.js  
 Developed a **personal portfolio website** to showcase my work, skills, and projects.
+**Website**:[Website Link](https://nitikaduggal1910.wixsite.com/my-site-1 )
 
 ![Portfolio_CoverPage](https://github.com/Nitika19100/Portfolio/blob/main/Portfolio_CoverPage.png)
 
