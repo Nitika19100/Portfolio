@@ -53,7 +53,7 @@ I have a broad set of technical and analytical skills that allow me to work effi
 **Technologies**: HTML, CSS, JavaScript, Node.js  
 Developed a **personal portfolio website** to showcase my work, skills, and projects.
 
-![Portfolio_CoverPage](/workspaces/Portfolio/Portfolio_CoverPage.png)
+![Portfolio_CoverPage](https://github.com/Nitika19100/Portfolio/blob/main/Portfolio_CoverPage.png)
 
 ### **Project Management Dashboard**
 **Technologies**: MS Project, Excel, Power BI
