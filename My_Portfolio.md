@@ -12,7 +12,7 @@ Welcome to my portfolio! Here, you'll find an overview of my expertise in AI, ma
 ## 📧 **Contact Information**
 - **Email**: [nitikaduggal1910@gmail.com](mailto:nitikaduggal1910@gmail.com)
 - **Phone**: +1 (902) 225-4310
-- **GitHub**: [GitHub Profile](https://github.com/nitikaduggal)
+- **GitHub**: [GitHub Profile](https://github.com/Nitika19100)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/nitika-duggal1910)
 
 ---
