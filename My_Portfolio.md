@@ -53,15 +53,13 @@ I have a broad set of technical and analytical skills that allow me to work effi
 **Technologies**: HTML, CSS, JavaScript, Node.js  
 Developed a **personal portfolio website** to showcase my work, skills, and projects.
 
-
-
-### **Machine Learning GitHub Repository**  
-**Technologies**: Python, TensorFlow, Scikit-learn, GitHub  
-Contributed to multiple **machine learning projects**, including sentiment analysis and model optimization, with code hosted on **GitHub**.
+![Portfolio_CoverPage](/workspaces/Portfolio/Portfolio_CoverPage.png)
 
 ### **Project Management Dashboard**
 **Technologies**: MS Project, Excel, Power BI
 Developed a Project Management Dashboard to streamline project tracking, including time, cost, and risk management. Integrated data from **MS Project** and **Excel** to provide visual insights and decision-making support using Power BI.
+
+![MS_Project_2024](/workspaces/Portfolio/MS_Project_2024.png)
 
 
 ## 🎓 **Education**
