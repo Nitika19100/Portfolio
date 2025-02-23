@@ -61,7 +61,7 @@ Developed a **personal portfolio website** to showcase my work, skills, and proj
 **Technologies**: Python, TensorFlow, Scikit-learn, GitHub  
 Contributed to multiple **machine learning projects**, including sentiment analysis and model optimization, with code hosted on **GitHub**
 
-![]()
+![ML_Project_Accuracy](https://github.com/Nitika19100/Portfolio/blob/main/ML_Model_Accuracy.png)
 
 ### **Project Management Dashboard**
 **Technologies**: MS Project, Excel, Power BI
