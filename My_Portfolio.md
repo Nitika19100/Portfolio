@@ -62,7 +62,7 @@ Developed a **personal portfolio website** to showcase my work, skills, and proj
 Contributed to multiple **machine learning projects**, including sentiment analysis and model optimization, with code hosted on **GitHub**
 Developed a cancer detection model using **Random Forest** to classify cancer types based on the Wisconsin **Breast Cancer Dataset**. The model achieved high accuracy, showcasing my ability to apply machine learning techniques in healthcare data analysis.
 
-**GitHub**: [GitHub Link]
+**GitHub**: [GitHub Link](https://github.com/Nitika19100/Portfolio/blob/main/ML_Project.ipynb)
 **Results**: The model was able to accurately predict whether a tumor is malignant or benign, with the following key outcomes:
 **Accuracy: 97%
 Precision: 95%
