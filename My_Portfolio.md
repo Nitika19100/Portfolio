@@ -59,7 +59,7 @@ Developed a **personal portfolio website** to showcase my work, skills, and proj
 **Technologies**: MS Project, Excel, Power BI
 Developed a Project Management Dashboard to streamline project tracking, including time, cost, and risk management. Integrated data from **MS Project** and **Excel** to provide visual insights and decision-making support using Power BI.
 
-![MS_Project_2024](/workspaces/Portfolio/MS_Project_2024.png)
+![MS_Project_2024](https://github.com/Nitika19100/Portfolio/blob/main/MS_Project_2024.png)
 
 
 ## 🎓 **Education**
