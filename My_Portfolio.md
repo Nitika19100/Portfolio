@@ -60,9 +60,9 @@ Developed a **personal portfolio website** to showcase my work, skills, and proj
 Contributed to multiple **machine learning projects**, including sentiment analysis and model optimization, with code hosted on **GitHub**.
 
 ### **Project Management Dashboard**
-**Technologies**:** MS Project, Excel, Power BI
+**Technologies**: MS Project, Excel, Power BI
 Developed a Project Management Dashboard to streamline project tracking, including time, cost, and risk management. Integrated data from **MS Project** and **Excel** to provide visual insights and decision-making support using Power BI.
----**
+
 
 ## 🎓 **Education**
 
